@@ -1,0 +1,4 @@
+baseURL = "https://gardendesign56.vercel.app"
+languageCode = "en-us"
+title = "Home Garden Design"
+theme = "tale-hugo-master"
